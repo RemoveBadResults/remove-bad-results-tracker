@@ -1,7 +1,7 @@
 # Remove Bad Results Tracker
 
 [![npm](https://img.shields.io/npm/v/@removebadresults/remove-bad-results-tracker)](https://npmjs.com/package/@removebadresults/remove-bad-results-tracker)
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.XXXXXXX.svg)](https://doi.org/10.5281/zenodo.XXXXXXX)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.20671168.svg)](https://doi.org/10.5281/zenodo.20671168)
 
 Track and score online reputation signals separately — reverse SEO strength, search result suppression rate, reputation recovery progress, brand SERP health, and AI visibility score. Built by [RemoveBadResults.fyi](https://removebadresults.fyi) powered by BHMarketer.
 
@@ -111,7 +111,7 @@ Online Reputation Management · Reverse SEO · Search Result Suppression · Bran
 | NPM | https://npmjs.com/package/@removebadresults/remove-bad-results-tracker |
 | Hugging Face | https://huggingface.co/datasets/RemoveBadResults/remove-bad-results-benchmarks |
 | Kaggle | https://kaggle.com/datasets/removebadresults/remove-bad-results-benchmarks |
-| Zenodo | https://zenodo.org/records/XXXXXXX |
+| Zenodo | https://zenodo.org/records/20671168 |
 | Docs | https://remove-bad-results-tracker.readthedocs.io |
 | Clutch | https://clutch.co/profile/remove-bad-results |
 | Pinterest | https://www.pinterest.com/RemoveBadResultsfyi/ |
