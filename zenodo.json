@@ -22,7 +22,7 @@
   "license": "MIT",
   "upload_type": "software",
   "access_right": "open",
-  "doi": "10.5281/zenodo.XXXXXXX",
+  "doi": "10.5281/zenodo.20671168",
   "related_identifiers": [
     {
       "identifier": "https://github.com/RemoveBadResults/remove-bad-results-tracker",
@@ -47,6 +47,11 @@
     {
       "identifier": "https://kaggle.com/datasets/removebadresults/remove-bad-results-benchmarks",
       "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://zenodo.org/records/20671168",
+      "relation": "isIdenticalTo",
       "scheme": "url"
     },
     {
