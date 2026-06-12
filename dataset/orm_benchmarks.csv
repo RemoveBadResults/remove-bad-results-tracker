@@ -1,0 +1,21 @@
+id,brand,reverse_seo_score,suppression_score,recovery_score,brand_serp_score,ai_visibility_score,review_signal_score,overall_orm_health,priority_signal,industry,notes
+1,TechStartup Inc,45,30,60,55,40,70,50,Suppression,Technology,Negative press coverage
+2,Local Restaurant,60,55,70,65,35,25,52,Review Signal,Food & Beverage,Fake Google reviews
+3,Healthcare Provider,70,65,80,75,50,60,67,AI Visibility,Healthcare,Personal data exposure
+4,SaaS Company,40,45,55,50,85,70,58,Reverse SEO,Software,Low AI Overview presence
+5,Law Firm,55,60,65,70,45,80,63,AI Visibility,Legal,Competitor negative content
+6,Hotel Chain,65,50,75,60,40,30,53,Review Signal,Hospitality,Yelp review issues
+7,Financial Advisor,75,70,85,80,55,65,72,AI Visibility,Finance,Client data concerns
+8,E-commerce Brand,50,45,60,55,90,75,63,Suppression,Retail,ChatGPT visibility gap
+9,Real Estate Agency,60,35,70,65,50,80,60,Suppression,Real Estate,Negative SERP results
+10,Medical Practice,70,60,80,75,45,25,59,Review Signal,Healthcare,Glassdoor reputation
+11,Insurance Company,80,75,85,90,60,70,77,AI Visibility,Insurance,DMCA violation found
+12,Digital Agency,55,50,65,60,95,80,68,Suppression,Marketing,Perplexity AI visibility
+13,Consulting Firm,65,60,75,70,55,85,68,AI Visibility,Consulting,Wikipedia issues
+14,Retail Store,70,55,80,75,50,30,60,Review Signal,Retail,Consumer review problems
+15,Tech Enterprise,85,80,90,85,65,75,80,AI Visibility,Technology,Search result removal
+16,Startup Brand,45,40,55,50,88,70,58,Suppression,Technology,Knowledge panel missing
+17,Food Brand,60,55,70,65,50,25,54,Review Signal,Food,Negative news articles
+18,Service Business,75,70,80,75,60,35,66,Review Signal,Services,BBB complaint visibility
+19,Healthcare Brand,80,75,85,80,55,65,73,AI Visibility,Healthcare,Personal info in SERP
+20,B2B Company,55,50,65,60,90,75,66,Suppression,Business,Entity SEO optimization
