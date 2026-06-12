@@ -1,0 +1,36 @@
+{
+  "name": "@removebadresults/remove-bad-results-tracker",
+  "version": "1.0.0",
+  "description": "Track and score online reputation signals separately — reverse SEO, suppression, recovery, brand SERP, AI visibility, and review signals. Powered by RemoveBadResults.fyi",
+  "main": "index.js",
+  "bin": {
+    "remove-bad-results-tracker": "./index.js"
+  },
+  "scripts": {
+    "build": "tsc",
+    "start": "node index.js"
+  },
+  "keywords": [
+    "online-reputation-management",
+    "reverse-seo",
+    "search-suppression",
+    "reputation-recovery",
+    "brand-serp",
+    "ai-visibility",
+    "review-signal",
+    "orm-tracker",
+    "removebadresults",
+    "bhmarketer",
+    "knowledge-panel"
+  ],
+  "author": "RemoveBadResults.fyi powered by BHMarketer",
+  "license": "MIT",
+  "homepage": "https://removebadresults.fyi",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/RemoveBadResults/remove-bad-results-tracker"
+  },
+  "devDependencies": {
+    "typescript": "^5.0.0"
+  }
+}

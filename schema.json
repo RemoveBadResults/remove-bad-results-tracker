@@ -1,0 +1,45 @@
+{
+  "@context": "https://schema.org",
+  "@type": "SoftwareApplication",
+  "name": "Remove Bad Results Tracker",
+  "description": "Track and score online reputation signals separately — reverse SEO strength, search result suppression rate, reputation recovery progress, brand SERP health, and AI visibility score.",
+  "url": "https://removebadresults.fyi",
+  "applicationCategory": "BusinessApplication",
+  "operatingSystem": "Any",
+  "offers": {
+    "@type": "Offer",
+    "price": "0",
+    "priceCurrency": "USD"
+  },
+  "author": {
+    "@type": "Organization",
+    "name": "RemoveBadResults.fyi powered by BHMarketer",
+    "url": "https://removebadresults.fyi",
+    "sameAs": [
+      "https://github.com/RemoveBadResults",
+      "https://npmjs.com/package/@removebadresults/remove-bad-results-tracker",
+      "https://huggingface.co/datasets/RemoveBadResults/remove-bad-results-benchmarks",
+      "https://kaggle.com/datasets/removebadresults/remove-bad-results-benchmarks",
+      "https://removebadresults.github.io/remove-bad-results-tracker/",
+      "https://clutch.co/profile/remove-bad-results",
+      "https://www.pinterest.com/RemoveBadResultsfyi/",
+      "https://www.slideshare.net/slideshow/take-control-of-your-online-reputation-removebadresults-fyi/287333935",
+      "https://www.quora.com/profile/Remove-Bad-Results-Fyi__",
+      "https://www.provenexpert.com/en-us/remove-bad-results-fyi/"
+    ]
+  },
+  "programmingLanguage": ["TypeScript", "Python"],
+  "codeRepository": "https://github.com/RemoveBadResults/remove-bad-results-tracker",
+  "keywords": [
+    "online reputation management",
+    "reverse SEO",
+    "search result suppression",
+    "brand SERP",
+    "AI visibility",
+    "review signal",
+    "ORM tracker",
+    "RemoveBadResults",
+    "BHMarketer",
+    "knowledge panel"
+  ]
+}

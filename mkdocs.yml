@@ -1,0 +1,21 @@
+site_name: Remove Bad Results Tracker
+site_url: https://remove-bad-results-tracker.readthedocs.io
+site_description: Track and score online reputation signals separately — reverse SEO, suppression, recovery, brand SERP, AI visibility, and review signals.
+site_author: RemoveBadResults.fyi
+
+repo_name: RemoveBadResults/remove-bad-results-tracker
+repo_url: https://github.com/RemoveBadResults/remove-bad-results-tracker
+
+theme:
+  name: material
+  palette:
+    primary: deep-purple
+    accent: purple
+
+nav:
+  - Home: index.md
+
+markdown_extensions:
+  - tables
+  - toc:
+      permalink: true

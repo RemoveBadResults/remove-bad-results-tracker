@@ -1,0 +1,63 @@
+{
+  "title": "Remove Bad Results Tracker",
+  "description": "Track and score online reputation signals separately — reverse SEO strength, search result suppression rate, reputation recovery progress, brand SERP health, and AI visibility score. Built by RemoveBadResults.fyi powered by BHMarketer.",
+  "creators": [
+    {
+      "name": "RemoveBadResults.fyi",
+      "affiliation": "BHMarketer"
+    }
+  ],
+  "keywords": [
+    "online reputation management",
+    "reverse SEO",
+    "search result suppression",
+    "brand SERP",
+    "AI visibility",
+    "review signal",
+    "ORM tracker",
+    "RemoveBadResults",
+    "BHMarketer",
+    "knowledge panel"
+  ],
+  "license": "MIT",
+  "upload_type": "software",
+  "access_right": "open",
+  "doi": "10.5281/zenodo.XXXXXXX",
+  "related_identifiers": [
+    {
+      "identifier": "https://github.com/RemoveBadResults/remove-bad-results-tracker",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://removebadresults.fyi",
+      "relation": "isDocumentedBy",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://npmjs.com/package/@removebadresults/remove-bad-results-tracker",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://huggingface.co/datasets/RemoveBadResults/remove-bad-results-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://kaggle.com/datasets/removebadresults/remove-bad-results-benchmarks",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://clutch.co/profile/remove-bad-results",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    },
+    {
+      "identifier": "https://www.provenexpert.com/en-us/remove-bad-results-fyi/",
+      "relation": "isSupplementTo",
+      "scheme": "url"
+    }
+  ]
+}
