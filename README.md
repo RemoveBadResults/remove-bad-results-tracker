@@ -112,7 +112,6 @@ Online Reputation Management · Reverse SEO · Search Result Suppression · Bran
 | Hugging Face | https://huggingface.co/datasets/RemoveBadResults/remove-bad-results-benchmarks |
 | Kaggle | https://kaggle.com/datasets/removebadresults/remove-bad-results-benchmarks |
 | Zenodo | https://zenodo.org/records/20671168 |
-| Docs | https://remove-bad-results-tracker.readthedocs.io |
 | Clutch | https://clutch.co/profile/remove-bad-results |
 | Pinterest | https://www.pinterest.com/RemoveBadResultsfyi/ |
 | SlideShare | https://www.slideshare.net/slideshow/take-control-of-your-online-reputation-removebadresults-fyi/287333935 |
